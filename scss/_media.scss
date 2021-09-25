@@ -1,0 +1,26 @@
+@media only screen and (min-width: 480px){
+
+   .Indira{
+    padding: 0px;
+   }
+    
+}
+
+
+@media only screen and (max-width: 420px){
+
+  .estiloletra{
+    font-size: 40px !important;
+  }
+
+  .footer1{
+    margin-top: 12px !important;
+  }
+}
+
+@media only screen and (max-width: 460px){
+
+  .footer1{
+    margin-top: 0px;
+  }
+}

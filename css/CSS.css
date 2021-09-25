@@ -1,0 +1,185 @@
+.body {
+  background-image: url(../Paginas/Imagenes/Zapatilla6.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 0px -800px;
+  background-size: 2000px 2000px; }
+
+.Background {
+  background-image: linear-gradient(#CDC9C9, #CDC9C9);
+  height: 77vh; }
+
+.Background2 {
+  height: 72vh;
+  background-image: linear-gradient(#FD9090, #FFC0C0, white); }
+
+.border {
+  border: 2px solid black !important; }
+
+main .General__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 4rem 0; }
+
+main .Indira {
+  margin-left: 0px !important; }
+
+main .Indira {
+  padding-left: 70px; }
+
+main .pad {
+  padding: 0px !important; }
+
+main .grid {
+  margin-top: 80px;
+  height: 1500px;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 20%  20%  20%  20%;
+  grid-template-rows: 25vw 25vw  25vw 25vw;
+  margin-right: 20px;
+  margin-left: 20px; }
+
+main #grid__border {
+  border: 2px solid black; }
+
+main .carousel {
+  margin-left: 770px;
+  width: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+main .NewArrivals {
+  font-family: 'Hahmlet', serif;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px; }
+
+main .WhyChooseUs {
+  display: flex;
+  margin-left: 300px;
+  justify-content: flex-start;
+  align-items: center; }
+
+main .TWCU {
+  display: flex;
+  margin-top: 200px;
+  justify-content: center;
+  align-items: center; }
+
+main .video {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: -235px;
+  margin-right: 500px; }
+
+main .imagen {
+  height: 400px; }
+
+main .estiloletra {
+  font-family: serif;
+  font-size: 50px; }
+
+.background {
+  background-color: black;
+  padding: 1rem; }
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none; }
+
+.header {
+  display: flex;
+  width: 100%;
+  height: 125px;
+  justify-content: space-between;
+  background-size: cover;
+  position: sticky;
+  top: 0px; }
+
+.contenedor {
+  height: 15vh; }
+
+nav .nav__logo {
+  margin-top: 10px; }
+
+nav .nav__secciones {
+  font-family: sans-serif;
+  color: #000000;
+  text-decoration: none; }
+
+#padding {
+  padding-right: 0px;
+  padding-left: 0px;
+  height: 50px; }
+
+.footer1, .footer2, .footer3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: space-between;
+  align-items: center;
+  background-color: #6C757D;
+  margin-top: 25px;
+  height: 8vh; }
+  .footer1 .footer__container, .footer2 .footer__container, .footer3 .footer__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 5vh; }
+    .footer1 .footer__container .footer__copyrights, .footer2 .footer__container .footer__copyrights, .footer3 .footer__container .footer__copyrights {
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      font-size: 17px;
+      font-family: serif; }
+    .footer1 .footer__container .footer__IGFC, .footer2 .footer__container .footer__IGFC, .footer3 .footer__container .footer__IGFC {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      align-content: flex-end; }
+
+.footer2 {
+  position: sticky;
+  bottom: 0px;
+  margin-top: 69px; }
+
+.footer3 {
+  margin-top: 97px; }
+
+.Form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.Form__item {
+  color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin-top: 9vh; }
+
+@media only screen and (min-width: 480px) {
+  .Indira {
+    padding: 0px; } }
+
+@media only screen and (max-width: 420px) {
+  .estiloletra {
+    font-size: 40px !important; }
+  .footer1, .footer2, .footer3 {
+    margin-top: 12px !important; } }
+
+@media only screen and (max-width: 460px) {
+  .footer1, .footer2, .footer3 {
+    margin-top: 0px; } }

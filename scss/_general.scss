@@ -1,0 +1,173 @@
+
+
+
+
+
+
+
+
+.body{
+	    background-image: url(../Paginas/Imagenes/Zapatilla6.jpg);
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-position: 0px -800px;
+   background-size: 2000px 2000px ;
+}
+
+
+.Background{
+    background-image: linear-gradient( #CDC9C9, #CDC9C9);
+   height: 77vh;
+}
+
+.Background2{
+    height:  72vh;
+   background-image: linear-gradient(#FD9090 ,#FFC0C0, white);
+}
+
+
+.border{
+    border: 2px solid black !important;
+}
+
+
+
+main{
+
+
+	.General__container{
+		display: flex;
+        flex-direction: column;
+         
+         align-items: center;
+         gap: 1rem;
+         padding: 4rem 0;
+  
+
+	}
+
+
+    .Indira{
+        margin-left: 0px !important;
+    }
+
+
+    .Indira{
+
+      padding-left: 70px;
+    }
+
+    .pad{
+        padding: 0px !important;
+    }
+    
+
+
+
+   .grid{
+   	margin-top: 80px;
+  
+   height: 1500px;
+   display: grid;
+   justify-content: center;
+
+   grid-template-columns: 20%  20%  20%  20%;
+   grid-template-rows:  25vw 25vw  25vw 25vw ;
+   margin-right: 20px;
+   margin-left: 20px;
+   }
+
+  
+   #grid__border{
+
+    border: 2px solid black;
+
+   }
+   
+
+   .carousel{
+     margin-left: 770px;
+   
+   width: 40vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   }
+
+   .NewArrivals{
+    font-family: 'Hahmlet', serif;
+  color: black ;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+   }
+
+
+   .WhyChooseUs{
+
+     display: flex;
+    margin-left: 300px;
+     justify-content:flex-start;
+     align-items: center;
+
+
+
+   }
+ 
+   .TWCU{
+    display: flex;
+     margin-top: 200px;
+     justify-content: center;
+     align-items: center;
+
+   }
+
+
+    .video{
+        display: flex;
+
+     justify-content: flex-end;
+     align-items: center;
+     margin-top: -235px;
+     margin-right: 500px
+     
+    }
+
+
+
+   .imagen{
+    height: 400px
+   }
+
+
+   .estiloletra{
+    font-family: serif;
+    font-size: 50px;
+
+   }
+
+}
+
+.background{
+    background-color: rgb(0,0,0);
+    padding: 1rem;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

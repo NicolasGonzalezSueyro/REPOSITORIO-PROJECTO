@@ -1,0 +1,83 @@
+
+*{
+
+    margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+   text-decoration: none;
+   list-style-type: none;
+
+  
+   
+}
+
+
+
+
+
+.header{
+	display: flex;
+   width: 100%;
+   height:125px;
+   justify-content: space-between;
+   background-size: cover;
+   
+   position: sticky;
+   top: 0px;
+   }
+
+
+
+
+
+
+
+
+
+.contenedor{
+
+
+	 height: 15vh;
+
+
+}
+
+ 
+ nav{
+
+
+   .nav__logo{
+   	margin-top: 10px
+
+   }
+
+
+   .nav__secciones{
+
+   	font-family: sans-serif;
+   color:#000000;
+   text-decoration: none;
+
+
+   }
+ 
+ }
+
+
+
+ 
+
+ #padding {
+
+padding-right: 0px;
+padding-left: 0px; 
+height: 50px
+ }
+
+
+
+
+
+
+
+ 
