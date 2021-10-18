@@ -1,4 +1,73 @@
 
+
+
+
+@media only screen and (max-width: 1700px){
+
+
+  .carousel{
+    margin-left: 700px !important;
+  }
+
+  .Background2{
+    height: 732px;
+  }
+
+  .main1{
+    height: 732px;
+  }
+}
+
+
+
+
+@media only screen and (max-width: 1400px){
+
+
+  .carousel{
+    margin-left: 500px !important;
+  }
+}
+
+@media only screen and (max-width: 1000px){
+
+
+  .carousel{
+    margin-left: 300px !important;
+  }
+
+  .Background2{
+    height: 578px;
+  }
+
+  .main1{
+    height: 577px;
+  }
+
+  .tama{
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+  }
+
+  .main2{
+    height: 600px;
+  }
+
+  .footer2{
+    margin-top: 154px;
+  }
+}
+
+
+@media only screen and (max-width: 800px){
+
+
+  .carousel{
+    margin-left: 200px !important;
+  }
+}
+
 @media only screen  and (max-width: 900px){
 
  
@@ -9,16 +78,51 @@
 
 }
 
+@media only screen  and (max-width: 775px){
 
+.wudiv{
+  flex-direction: column !important;
+}
+
+
+.tama{
+  margin-top:10px;
+}
+.td{
+   
+   text-align: center;
+
+}
+
+.WhyChooseUs{
+  margin-top: 10px !important;
+}
+
+}
 
 @media only screen and (max-width: 560px){
 
   #mi-video{
     width: 170px !important;
   }
+
+  .carousel{
+    margin-left: 25px !important;
+  }
 }
 
+@media only screen and (max-width: 500px){
 
+
+   .tama{
+    margin-right: 10px;
+    margin-left: 20px;
+    width: 400px;
+    height: 200px;
+    margin-top: 50px;
+  }
+
+}
 
 @media only screen and (max-width: 480px){
 
@@ -26,6 +130,16 @@
     padding: 0px;
    }
     
+}
+
+
+@media only screen and (max-width: 430px){
+
+
+   .tama{
+    width: 300px;
+    height: 150px;
+   }
 }
 
 
@@ -37,8 +151,16 @@
 
 }
 
-@media only screen and (max-width: 460px){
+@media only screen and (max-width: 450px){
 
+.carousel, .carousel-inner > .carousel-item > img{
+  height: 400px;
+  width: 300px !important;
+ }
+
+ .mt{
+   margin-top: 157px;
+ }
 
  
 }
@@ -48,6 +170,11 @@
 
 .imagen{
   height: 300px !important;
+}
+
+
+.main1{
+  height: 547px;
 }
 
 
@@ -75,6 +202,37 @@
 
     margin-top: 30px !important;
   }
+
+
+  #grid__border{
+
+
+     
+    height: 250px;
+    
+   
+  }
+
+
+  .tamanioZE{
+
+    height: 245px;
+    width: 188px !important;
+  }
+
+  .col{
+    display: flex;
+    justify-content: center;
+  }
+
+  .carousel, .carousel-inner > .carousel-item > img{
+  height: 320px;
+  width: 250px !important;
+ }
+
+ .carouel{
+  margin-left: 0px !important;
+ }
 
 .imagen{
 
@@ -105,4 +263,24 @@
   padding-left: 40px !important;
 }
 
+
+.mt{
+    margin-top: 190px !important;
+  }
+
+}
+
+
+
+
+
+@media only screen and (max-width: 330px){
+
+  .tama{
+
+    width: 200px;
+    height: 300px;
+    margin-left: 45px !important;
+
+  }
 }
