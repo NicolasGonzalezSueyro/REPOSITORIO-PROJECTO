@@ -2,6 +2,9 @@
 
 
 
+
+
+
 @media only screen and (max-width: 1700px){
 
 
@@ -10,11 +13,11 @@
   }
 
   .Background2{
-    height: 732px;
+    height: 766px;
   }
 
   .main1{
-    height: 732px;
+    height: 766px;
   }
 }
 
@@ -37,11 +40,11 @@
   }
 
   .Background2{
-    height: 578px;
+    height: 612px;
   }
 
   .main1{
-    height: 577px;
+    height: 612px;
   }
 
   .tama{
@@ -51,12 +54,17 @@
   }
 
   .main2{
-    height: 600px;
+    height: 613px;
   }
 
   .footer2{
     margin-top: 154px;
   }
+
+  .mt{
+    margin-top: 97px;            
+  }
+
 }
 
 
@@ -74,6 +82,10 @@
  #mi-video{
   width: 200px;
   height: 50vh
+ }
+
+ .main2{
+  height: 613px;
  }
 
 }
@@ -159,7 +171,7 @@
  }
 
  .mt{
-   margin-top: 157px;
+   margin-top: 167px;
  }
 
  
@@ -174,7 +186,7 @@
 
 
 .main1{
-  height: 547px;
+  height: 582px;
 }
 
 
@@ -194,6 +206,24 @@
 
 
 }
+
+
+@media only screen and (max-width: 360px){
+
+
+   .mt{
+    margin-top: 120px !important;
+   }
+
+}
+
+
+
+
+
+
+
+
 
 @media only screen and (max-width: 350px){
 
@@ -265,7 +295,7 @@
 
 
 .mt{
-    margin-top: 190px !important;
+    margin-top: 200px !important;
   }
 
 }
